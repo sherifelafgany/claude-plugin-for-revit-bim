@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash /mnt/project-files/bim-ai-linkedin/publish_next.sh)",
+      "Bash(bash /mnt/project-files/bim-ai-linkedin/publish_next.sh:*)"
+    ]
+  }
+}
