@@ -83,6 +83,8 @@
 
 ---
 
+> ⚠️ راجع [99-CONFLICTS-BETWEEN-SKILLS.md](99-CONFLICTS-BETWEEN-SKILLS.md) — تعارضات بين الـ skills محتاجة قرار.
+
 ## ملاحظة عن الإنشائي (Structure)
 لا يوجد skill مخصص للتصميم الإنشائي. الجوانب الإنشائية موجودة فقط ضمن: التنسيق (revit-clash-coordination)، المناسيب وطبقات السطح (villa-levels-regulations)، وقواعد الموديلنج في bim-revit-engineering وsenior-architect-revit-practice.
 
